@@ -1,11 +1,11 @@
 ### Hi there 👋
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> <b>aaa22220304@gmail.com</b>
 
-백엔드 개발자를 꿈꿉니다. 
+### I'm Seungmin
 
-해본 것들
-<br>
-<br>
+<a href="mailto:aaa22220304@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faaa22220304%2Fhit-counter&count_bg=%2300A647&title_bg=%231A1A1A&icon=&icon_color=%23E7E7E7&title=Today&edge_flat=false"/></a>
+
+### 💻 Skills
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
@@ -16,29 +16,14 @@
 <img src="https://img.shields.io/badge/socket.io-ffffff?style=for-the-badge&logo=socket.io&logoColor=black">
 <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens">
 
+### 🛠 Tools
 
+<p>
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white">
+</p>
 
-백준
-<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaa22220304&show_icons=true&theme=tokyonight)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=haradwaith)](https://solved.ac/haradwaith)
-
-
-깃헙
-<br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaa22220304)](https://github.com/aaa22220304/github-readme-stats)
-
-<!--
-**aaa22220304/aaa22220304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
